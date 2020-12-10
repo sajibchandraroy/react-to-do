@@ -1,0 +1,54 @@
+.border{   
+    border-radius: 10px;
+    width: 40%;
+    height: auto;
+	margin: auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+.inputBox{
+    border: none;
+    margin: 15px;
+    border-bottom: 1px solid gray;    
+    color: black;
+    font-size: 18px;
+    width: 80%;
+    height: 20%;
+}
+.submitBox{
+    border-radius: 10px;
+    margin: 15px;
+    color: white;
+    background-color: rgba(6, 124, 99, 0.918);
+    font-size: 18px;
+    width: 65%;
+    height: 20%;
+}
+
+.google-login-button{
+	width: 50%;
+	margin: auto;
+    text-align: center;
+}
+
+.login-button {
+    width: 60%;
+		background-color: transparent;
+		border: 1px solid #ededed;
+		border-radius: 50px;
+		padding: 10px;
+		box-sizing: border-box;
+		/* font-family: $primaryFont; */
+		font-size: 16px;
+        font-weight: 500;
+		
+    }
+
+.google-login-button img {
+			width: 25px;
+			margin-right: 20px;
+            float: left;
+}	

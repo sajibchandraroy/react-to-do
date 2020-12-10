@@ -1,0 +1,18 @@
+.home{
+    height:800px;
+    position:relative;
+    background-image: url('../images/homeBackground.jpg');
+    background-size: cover;
+    
+}
+.body{
+    padding-top: 20%;
+}
+.body button{
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 20px;
+    background-color:rgb(187, 181, 247);
+    color: black;
+    
+}
